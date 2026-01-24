@@ -1,4 +1,4 @@
-//gcd of 2 num in cpp using class
+
 #include <iostream>
 using namespace std;    
 class GCD {
@@ -31,3 +31,4 @@ int main() {
     gcdCalculator.displayGCD();
     return 0;
 }
+
