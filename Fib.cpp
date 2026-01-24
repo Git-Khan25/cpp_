@@ -1,4 +1,4 @@
-//fib of a number incpp using class
+
 #include <iostream>
 using namespace std;
 class Fibonacci {
@@ -40,3 +40,4 @@ int main() {
     fibCalculator.displayFibonacci();
     return 0;
 }       
+
